@@ -6,7 +6,7 @@ mbdpay Go 版 SDK
 import as a normal go package
 
 ```go
-import "https://github.com/CyJaySong/mbdpay"
+import "github.com/CyJaySong/mbdpay"
 ```
 
 ### 创建Client
